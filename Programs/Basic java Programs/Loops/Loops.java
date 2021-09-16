@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 public class Loops {
     public static void main(String[]args){
-        Scanner in = new Scanner(System.in);
-
+       
         int a = 1;
 
         while (a <= 100) {
